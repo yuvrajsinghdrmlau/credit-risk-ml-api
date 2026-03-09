@@ -160,6 +160,10 @@ REST API development using FastAPI
 
 Interactive API documentation using Swagger
 
+streamlit app
+<img width="1879" height="946" alt="image" src="https://github.com/user-attachments/assets/67727546-ac57-4adb-b5e5-99c0131be760" />
+
+
 Containerization using Docker
 
 Cloud deployment using Render
