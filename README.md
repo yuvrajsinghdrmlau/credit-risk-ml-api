@@ -22,6 +22,10 @@ Swagger Documentation
 
 https://credit-risk-ml-api-8s0o.onrender.com/docs
 
+Live Web App
+
+https://credit-risk-ui.streamlit.app
+
 ---
 <img width="1854" height="939" alt="image" src="https://github.com/user-attachments/assets/ed68b6b6-2ad5-4148-8600-1f2954ad29de" />
 <img width="1861" height="843" alt="image" src="https://github.com/user-attachments/assets/62952289-c061-43cd-901f-7ba2d8583b28" />
