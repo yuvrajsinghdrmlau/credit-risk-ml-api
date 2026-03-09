@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-purple)
+
+
 # Credit Risk Prediction API (End-to-End ML Deployment)
 
 A production-ready Machine Learning API that predicts whether a customer is **Risky** or **Not Risky** for credit default.
@@ -17,6 +23,9 @@ Swagger Documentation
 https://credit-risk-ml-api-8s0o.onrender.com/docs
 
 ---
+<img width="1854" height="939" alt="image" src="https://github.com/user-attachments/assets/ed68b6b6-2ad5-4148-8600-1f2954ad29de" />
+<img width="1861" height="843" alt="image" src="https://github.com/user-attachments/assets/62952289-c061-43cd-901f-7ba2d8583b28" />
+
 
 # Architecture
 
