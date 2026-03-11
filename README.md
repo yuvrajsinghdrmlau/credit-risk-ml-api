@@ -4,7 +4,7 @@
 ![Render](https://img.shields.io/badge/Deployed%20on-Render-purple)
 
 
-# Credit Risk Prediction API (End-to-End ML Deployment)
+# Credit Risk Prediction API (End-to-End ML Deployment) 
 
 A production-ready Machine Learning API that predicts whether a customer is **Risky** or **Not Risky** for credit default.
 
