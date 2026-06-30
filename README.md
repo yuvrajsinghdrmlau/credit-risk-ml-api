@@ -11,8 +11,8 @@
 A production-ready Machine Learning API that predicts whether a customer is **Risky** or **Not Risky** for credit default. 
 This project demonstrates a complete **ML deployment pipeline** including model training, API development, containerization and cloud deployment.
 
-
 # Live API 
+
 Base URL
 
 https://credit-risk-ml-api-8s0o.onrender.com
